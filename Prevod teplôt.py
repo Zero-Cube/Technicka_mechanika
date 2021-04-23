@@ -1,9 +1,9 @@
-Kelvin_to_celsium = False
-Celsium_to_kelvin = False
-Celsium_to_Fahrenheit = False
-Fahrenheit_to_Celsium = False
+Kelvin_to_celsium = True
+Celsium_to_kelvin = True
+Celsium_to_Fahrenheit = True
+Fahrenheit_to_Celsium = True
 Kelvin_to_Fahrenheit = True
-Fahrenheit_to_Kelvin = False
+Fahrenheit_to_Kelvin = True
 
 
 if Kelvin_to_celsium:
